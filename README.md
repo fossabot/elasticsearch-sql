@@ -104,6 +104,7 @@ you can visite : [http://essql.nlpcn.org/](http://essql.nlpcn.org/) , it is a sa
 ## Web frontend overview
 
 ![Web frontend overview](https://cloud.githubusercontent.com/assets/9518816/5555009/ebe4b53c-8c93-11e4-88ad-96d805cc698f.png)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fsatishkumarav%2Felasticsearch-sql.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fsatishkumarav%2Felasticsearch-sql?ref=badge_shield)
 
 
 ## SETUP
@@ -683,3 +684,7 @@ Check details : [JDBC Support](https://github.com/NLPchina/elasticsearch-sql/pul
 
 
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fsatishkumarav%2Felasticsearch-sql.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fsatishkumarav%2Felasticsearch-sql?ref=badge_large)
